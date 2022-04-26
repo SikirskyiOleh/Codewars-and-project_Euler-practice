@@ -1,6 +1,5 @@
-# from collections import Counter
-# def count(string):
-#     return Counter(string)
+# The main idea is to count all the occurring characters in a string.
+# If you have a string like aba, then the result should be {'a': 2, 'b': 1}.
 
 def count(string):
     # The function code should be here
