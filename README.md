@@ -3,7 +3,7 @@ Practice Python through task sites:
 - https://www.codewars.com/dashboard
 - https://projecteuler.net/about
 
-Creating pet projects
+Creating pet projects and other interesting things in Python
 
 
 
